@@ -1,0 +1,19 @@
+h1 {
+	background-color:green;
+	color:blue;
+	text-align:center;
+
+/*Content box*/
+	width: 20px;
+	height:20px;
+	 
+	padding:20px;
+
+	border:20px solid green;
+
+	margin:20px;
+}
+html {background-color:black
+}
+html {color:blue;
+}
